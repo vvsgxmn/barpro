@@ -1,0 +1,67 @@
+# 基于SpringBoot+Vue3的酒吧管理系统
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Vue3](https://img.shields.io/badge/-Vue3-grey?style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-grey?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+
+## 项目介绍
+
+这是一套完整的酒吧管理系统，采用前后端分离架构开发，包含客户端和管理后台两个界面。客户端提供酒水菜单浏览、卡座在线预约、个人中心等功能；管理后台提供营收态势感知仪表盘、库存管理、订单管理、高净值客群管理、用户管理、卡座预订管理等功能模块，适合作为毕业设计或课程设计参考项目。
+
+## 功能模块
+
+- **首页展示**：酒吧品牌宣传页面，展示酒吧特色与服务
+- **酒水菜单**：按分类浏览酒水，支持搜索和购物车下单
+- **卡座预约**：在线选择卡座/散台/VIP区/吧台，填写预约信息
+- **个人中心**：查看个人信息、会员等级、积分、存酒记录和预约历史
+- **态势感知仪表盘**：实时监控营收、客流、订单、库存预警等数据，含图表可视化
+- **库存管理（液态资产）**：酒水库存的入库、出库、成本管理
+- **订单管理**：订单流水查询、状态管理、结账操作
+- **高净值客群管理**：客户档案、消费记录、会员等级管理
+- **用户管理**：系统用户的增删改查与角色分配
+- **卡座预订管理**：预约审核、确认与取消
+
+## 技术架构
+
+- **后端**：Spring Boot 2.7.18 + Spring Data JPA + Lombok + Validation
+- **前端**：Vue 3.5 + Vite 7 + TailwindCSS 3.4 + ECharts 6 + Pinia + Lucide Icons
+- **数据库**：MySQL 8.0
+
+<!-- screenshots-start -->
+## 系统截图
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/55a72a42a3fa4c24bfa3f40bd9ebb487.png" alt="系统截图1" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/63f6fabcf2414501b77b1f7ff6db227b.png" alt="系统截图2" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/24f85726078a40c3bbda4e5e7b18ac8e.png" alt="系统截图3" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/cfdce4ce09a24966bf9ebf290e88c3d1.png" alt="系统截图4" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/d3481765cf3147a3913f36cd70ea33ff.png" alt="系统截图5" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/d08ca7351cb642f5859c299a17400c03.png" alt="系统截图6" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/de26c004a8ce46909ea664421f593ec7.png" alt="系统截图7" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/3eed8e2354814f4d8d5cb0d4f991513e.png" alt="系统截图8" width="600" />
+
+<!-- screenshots-end -->
+
+---
+
+**软件版本：** JDK 8.0 | MySQL 8 | Vue 3 | Node 20.19.0 | Navicat 16
+
+**需要软件和PPT + 微信：vvsgxmn**
+
+二维码：
+<div align="left">
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/753b7d4a2ede90f531338ee5549c2695.jpg" alt="二维码" width="300" />
+</div>
+
+
+1. 免费赠送以上所有软件都有，包括IDEA、WebStorm的压缩包和破解文件
+2. 帮忙好评或者star截图发我，免费赠送PPT+答辩问答20题！！！谢谢谢谢老板！！！
+
+⚠️ Bug添加微信**免费修复**，免费修复。其他平台的私信一律不管（微信方便发送文件）
+
+承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
+
